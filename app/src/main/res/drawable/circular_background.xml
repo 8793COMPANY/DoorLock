@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Created by FirozShaikh on 02/12/2015. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size
+        android:height="144dp"
+        android:width="144dp" />
+    <solid android:color="@color/white"/>
+</shape>
